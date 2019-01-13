@@ -1,0 +1,6 @@
+[10-Jan-2019 23:37:28 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/popgrafi/public_html/manager/includes/extenders/dbapi.mysqli.class.inc.php on line 63
+[10-Jan-2019 23:37:29 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/popgrafi/public_html/manager/includes/extenders/dbapi.mysqli.class.inc.php on line 63
+[10-Jan-2019 23:37:30 America/New_York] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/popgrafi/public_html/manager/includes/extenders/dbapi.mysqli.class.inc.php on line 63
+[10-Jan-2019 23:37:32 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/popgrafi/public_html/manager/includes/extenders/dbapi.mysqli.class.inc.php on line 63
+[10-Jan-2019 23:37:33 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/popgrafi/public_html/manager/includes/extenders/dbapi.mysqli.class.inc.php on line 63
+[10-Jan-2019 23:37:34 America/New_York] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/popgrafi/public_html/manager/includes/extenders/dbapi.mysqli.class.inc.php on line 63
